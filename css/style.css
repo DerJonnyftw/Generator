@@ -49,7 +49,7 @@ hr {
 #head {
     background: #191919;
     text-align: center;
-    font-family: "Iceland";
+    font-family: "Bebas";
     padding: 10px;
     margin-bottom: 1em;
 }
@@ -78,7 +78,7 @@ hr {
     position: fixed;
     background: rgba(25, 25, 25, 0.9);
     text-align: center;
-    font-family: "Iceland";
+    font-family: "Bebas";
     padding: 10px;
 }
 /* LIST */
@@ -93,7 +93,7 @@ li {
     font-size: 10pt;
     margin-left: 0.5em;
     color: black;
-    font-family: "Iceland", monospace;
+    font-family: "Bebas", monospace;
 }
 /* WRAPS */
 
@@ -124,7 +124,7 @@ li {
     margin-right: 0.5em;
     font-size: 15px;
     color: black;
-    font-family: "Iceland", monospace;
+    font-family: "Bebas", monospace;
 }
 
 .form-line {
@@ -199,7 +199,7 @@ li {
 .help {
     padding: 5px;
     margin: 0;
-    font-family: "Iceland", monospace;
+    font-family: "Bebas", monospace;
     color: #000;
     text-align: left;
     margin-left: 2em;
