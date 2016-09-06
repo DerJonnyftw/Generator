@@ -49,8 +49,8 @@ for (var i = 0; i < stickertype.length; i++) {
 $clearbg.hide();
 
 var $canvas = $("#canvas")[0];
-var w = $canvas.width = 228;
-var h = $canvas.height = 226;
+var w = $canvas.width = 300;
+var h = $canvas.height = 300;
 var $context = $canvas.getContext('2d');
 
 /* image objects */
