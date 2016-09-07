@@ -2,7 +2,7 @@
 var is_ie = !!navigator.userAgent.match(/(?:MSIE |Trident\/.*; rv:)(\d+)/);
 
 /* data */
-var stickertype = ['friendsgopro', 'columbus', 'dreamhack','cologne','comedy','custom'];
+var stickertype = ['columbus', 'dreamhack','cologne','comedy','custom'];
 var stickerIndex = 0;
 var fonts = ["Bebas"];
 var nobg_url = getApplicationPath() + "images/nobg.png";
