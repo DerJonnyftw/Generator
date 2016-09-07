@@ -4,7 +4,7 @@ var is_ie = !!navigator.userAgent.match(/(?:MSIE |Trident\/.*; rv:)(\d+)/);
 /* data */
 var stickertype = ['columbus', 'dreamhack','cologne','comedy','custom'];
 var stickerIndex = 0;
-var fonts = ["Bebas"];
+var fonts = ["Bebas", "Carlito"];
 var nobg_url = getApplicationPath() + "images/nobg.png";
 
 /* font preloading */
