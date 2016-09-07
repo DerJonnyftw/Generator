@@ -38,7 +38,7 @@ var $width = $("#width");
 
 // preload team selects based on stickertype array
 for (var i = 0; i < stickertype.length; i++) {
-    $teams[stickertype[i]] = $("#" + stickertype[i] + "-Image");
+    $teams[stickertype[i]] = $("#" + stickertype[i] + "-team");
     if (i != stickerIndex) {
         // hide all but current list
         $teams[stickertype[i]].hide();
